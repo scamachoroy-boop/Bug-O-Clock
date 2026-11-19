@@ -1,15 +1,24 @@
 field,display_name,browse_link,external_link
-title,Title,
+title,Common Name,
+alt-title,Alternate Name
+sci-title,Scientific Name
+order,Order,true,
+family,Family,true,
+native,Native Status,true,
+origin,Native Region,true,
+contributor,Contributor,
+food,Food Source,
 creator,Creator,
-date,Date Created,
+date,Date Collected,
 description,Description,
 subject,Subjects,true
-location,Location
+location,Location Collected,true,
 latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
+relation,Additional Information,,true
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
