@@ -1,7 +1,13 @@
 field,index,display
 title,true,true
+sci-title,true,true
+alt-title,true,false
 date,true,true
 creator,true,false
 description,true,true
 subject,true,true
-location,true,false
+location,true,true
+order,true,false
+family,true,false
+native,true,false
+origin,true,false
