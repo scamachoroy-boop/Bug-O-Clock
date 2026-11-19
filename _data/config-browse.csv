@@ -1,5 +1,7 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+date,Date Collected,,,Date
+location,,true,Location
+order,,true,
+family,,true,
+native,,true,
+origin,,true,
