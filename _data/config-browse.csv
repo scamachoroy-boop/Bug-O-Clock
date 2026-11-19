@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date Collected,,,Date
-location,Location Collected,true,,Location
+location,,true,,Location
 order,,true,
 family,,true,
 native,,true,
